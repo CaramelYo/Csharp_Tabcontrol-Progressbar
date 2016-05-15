@@ -1,0 +1,9 @@
+E:\Lesson\C#\Week09\Week09\bin\Debug\Week09.exe.config
+E:\Lesson\C#\Week09\Week09\bin\Debug\Week09.exe
+E:\Lesson\C#\Week09\Week09\bin\Debug\Week09.pdb
+E:\Lesson\C#\Week09\Week09\obj\Debug\Week09.csprojResolveAssemblyReference.cache
+E:\Lesson\C#\Week09\Week09\obj\Debug\Week09.Form1.resources
+E:\Lesson\C#\Week09\Week09\obj\Debug\Week09.Properties.Resources.resources
+E:\Lesson\C#\Week09\Week09\obj\Debug\Week09.csproj.GenerateResource.Cache
+E:\Lesson\C#\Week09\Week09\obj\Debug\Week09.exe
+E:\Lesson\C#\Week09\Week09\obj\Debug\Week09.pdb
